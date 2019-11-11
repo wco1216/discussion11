@@ -1,0 +1,17 @@
+# Data 607 Discussion 11
+### Will Outcault
+
+The engine I would like to discuss is Spotify's recommender system specifically the Discover Weekly.
+
+## Scenario Design
+1. The target users are individuals with a spotify subscription and a curiosity to branch out into new music.
+
+2. The key purpose of this recommended playlist is to bring attention to artists who may not normally get recognized, however there is reason to believe the user will enjoy the music. This has two major benefits, one to the user because they get to enjoy music they wouldn't have normally found and the second to the artist who gets more publicity despite their lack of popularity.
+
+3. They can further improve this recommended playlist by improving the quality of customer feedback. I believe the biggest feedback inhibitor is the fact that an individual needs to have their phone out to 'like' the song. If there was a feature that allowed the user to 'like' a song with their voice or headphones I believe they would receive a lot more data.
+
+## Reverse Engineer
+Due to the lack of feedback options Spotify offers, it leaves me to believe that they use number of times played and total time being played for each song. From this data they can compare the individuals behavior to other people's tastes. They also do an incredible job analyzing the songs played, specifically the tempo, the lyrics in each song and tone.
+
+## Recommendations
+The biggest recommendation I would like to make with Spotify is to more accurately acquire the user feedback. Unlike other systems such as Netflix's five star rating Spotify does not have direct feedback. Personally I like this feature of Spotify, however to receive more accurate reccomendations some rating system should be put in place. Currently I find too often that the recommended playlists will be oversaturated with music from one artist. Adversely the lack of rating system ads a symplicity to the app, and the implementation of a rating system in my opinion can get annoying when using the app. So to avoid the problem of oversaturation of one artist, or any other recommender engine faults, while minimizing the hassle of the user to give their feedback they should implement a thumbs up or down feature using your headphones. They should allow some sequence to thumbs up or down the song you are listening too from your headphones or the volume control on your phone.
